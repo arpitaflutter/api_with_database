@@ -22,6 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src = "https://github.com/arpitaflutter/api_with_database/assets/116253518/d8eed2e3-e14c-4182-97d8-ec70c8d8e522" height = "30%" width = "30%">
 <img src = "https://github.com/arpitaflutter/api_with_database/assets/116253518/26fc7c5e-65c6-44ac-ac29-2d83dc48af26" height = "30%" width = "30%">
 <img src = "https://github.com/arpitaflutter/api_with_database/assets/116253518/36a43750-b58e-458e-8635-bd65351013ca" height = "30%" width = "30%">
-</p>
+<\p>
 
 
